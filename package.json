@@ -1,0 +1,24 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anilkumar0143/demo1.git"
+  },
+  "author": "\"anil\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anilkumar0143/demo1/issues"
+  },
+  "homepage": "https://github.com/Anilkumar0143/demo1#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
